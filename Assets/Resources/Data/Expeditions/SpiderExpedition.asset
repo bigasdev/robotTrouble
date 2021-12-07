@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c31b8e9a32752441b666fdbf2a58f0e, type: 3}
+  m_Name: SpiderExpedition
+  m_EditorClassIdentifier: 
+  expeditionName: Fight the spider
+  expeditionDescription: You found a malignous spider, its time to erradicated her.
+    She has 5 attack and 15 health, good luck.
+  creatureImage: {fileID: -3438905571476058607, guid: bb7b9d95378f6b54881c131c97c90a95, type: 3}
+  creatureStats:
+    attack: 5
+    health: 25
