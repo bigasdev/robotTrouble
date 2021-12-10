@@ -1,7 +1,76 @@
 fileFormatVersion: 2
 guid: 8423f32b6db990747b3211771daaa22b
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -1312171939247498005
+    second: doggy4_0
+  - first:
+      213: -6255028433608321894
+    second: doggy4_1
+  - first:
+      213: 4420553831777087804
+    second: doggy4_2
+  - first:
+      213: 5602928245784621069
+    second: doggy4_3
+  - first:
+      213: -2251636345055336587
+    second: doggy4_4
+  - first:
+      213: -829384335759703756
+    second: doggy4_5
+  - first:
+      213: -3499503316319602082
+    second: doggy4_6
+  - first:
+      213: -5822888513886846318
+    second: doggy4_7
+  - first:
+      213: -5133938200165619039
+    second: doggy4_8
+  - first:
+      213: 2754895290422534003
+    second: doggy4_9
+  - first:
+      213: 8215819495330866528
+    second: doggy4_10
+  - first:
+      213: -6694870603729387281
+    second: doggy4_11
+  - first:
+      213: 1076329507330372214
+    second: doggy4_12
+  - first:
+      213: 4727609684220640412
+    second: doggy4_13
+  - first:
+      213: 3331209237844048567
+    second: doggy4_14
+  - first:
+      213: -6437379889109083086
+    second: doggy4_15
+  - first:
+      213: -2617089286413564245
+    second: doggy4_16
+  - first:
+      213: -3309149536457633559
+    second: doggy4_17
+  - first:
+      213: 3150448726585526134
+    second: doggy4_18
+  - first:
+      213: 9059303859448591322
+    second: doggy4_19
+  - first:
+      213: -8673385568148348941
+    second: doggy4_20
+  - first:
+      213: -994659572567648516
+    second: doggy4_21
+  - first:
+      213: -4363500571429802178
+    second: doggy4_22
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -115,13 +184,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Hornet_0
+      name: doggy4_0
       rect:
         serializedVersion: 2
-        x: 4
-        y: 25
-        width: 15
-        height: 21
+        x: 0
+        y: 76
+        width: 25
+        height: 19
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -129,8 +198,470 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5ad1a37a186d4c630800000000000000
-      internalID: 3946515025828126117
+      spriteID: becdaecc29a3acde0800000000000000
+      internalID: -1312171939247498005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doggy4_1
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 76
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a94decab7cca139a0800000000000000
+      internalID: -6255028433608321894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doggy4_2
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 76
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31b095f946f85d30800000000000000
+      internalID: 4420553831777087804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doggy4_3
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 76
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d00beffcd8991cd40800000000000000
+      internalID: 5602928245784621069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doggy4_4
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 76
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5772e918ca490c0e0800000000000000
+      internalID: -2251636345055336587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doggy4_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 57
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43105c4475f6d74f0800000000000000
+      internalID: -829384335759703756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doggy4_6
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 57
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5af77466444f6fc0800000000000000
+      internalID: -3499503316319602082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doggy4_7
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 57
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29282136fb1f03fa0800000000000000
+      internalID: -5822888513886846318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doggy4_8
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 57
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aae150686690c8b0800000000000000
+      internalID: -5133938200165619039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doggy4_9
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 57
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f180babaa5b3620800000000000000
+      internalID: 2754895290422534003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doggy4_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 38
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065eced3d44740270800000000000000
+      internalID: 8215819495330866528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doggy4_11
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 38
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe0418728aa0713a0800000000000000
+      internalID: -6694870603729387281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doggy4_12
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 38
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 672b2b9fbf3efee00800000000000000
+      internalID: 1076329507330372214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doggy4_13
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 38
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9cfaa8b5f7db9140800000000000000
+      internalID: 4727609684220640412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doggy4_14
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 38
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bab13ef625da3e20800000000000000
+      internalID: 3331209237844048567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doggy4_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 19
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23cd869f815d9a6a0800000000000000
+      internalID: -6437379889109083086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doggy4_16
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 19
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba6c6d1f82b3eabd0800000000000000
+      internalID: -2617089286413564245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doggy4_17
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 19
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e05bca770a8312d0800000000000000
+      internalID: -3309149536457633559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doggy4_18
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 19
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 677463fcc64a8bb20800000000000000
+      internalID: 3150448726585526134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doggy4_19
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 19
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad332c6acdc19bd70800000000000000
+      internalID: 9059303859448591322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doggy4_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff948287c1f1a780800000000000000
+      internalID: -8673385568148348941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doggy4_21
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 0
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf6d9a083624232f0800000000000000
+      internalID: -994659572567648516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doggy4_22
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 0
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f66be595bb173c0800000000000000
+      internalID: -4363500571429802178
       vertices: []
       indices: 
       edges: []

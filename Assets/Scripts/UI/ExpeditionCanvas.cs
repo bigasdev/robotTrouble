@@ -74,9 +74,13 @@ public class ExpeditionCanvas : MonoBehaviour
         }
     }
     void OnLose(){
-
+        Debug.Log("Player Lost...");
+        StateController.Instance.currentState = States.GAME;
+        Destroy(this.gameObject);
     }
     void OnWin(){
-
+        Debug.Log("Player Win...");
+        StateController.Instance.currentState = States.GAME;
+        Destroy(this.gameObject);
     }
 }

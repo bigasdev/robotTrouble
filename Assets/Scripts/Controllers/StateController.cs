@@ -15,6 +15,9 @@ public class StateController : MonoBehaviour
     }
     public States currentState;
     public bool CanUpdate => currentState == States.GAME;
+    public void ReturnToInitialState(){
+        currentState = States.GAME;
+    }
 }
 public enum States{
     GAME,

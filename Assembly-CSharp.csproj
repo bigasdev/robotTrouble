@@ -38,19 +38,23 @@
   <ItemGroup>
      <Compile Include="Assets\Scripts\Structures\DestroyedStructure.cs" />
      <Compile Include="Assets\Scripts\UI\CanvasObject.cs" />
+     <Compile Include="Assets\Scripts\PlayerStats.cs" />
      <Compile Include="Assets\Scripts\Structures\Shop.cs" />
+     <Compile Include="Assets\Scripts\Scriptables\ExpeditionDetail.cs" />
      <Compile Include="Assets\Scripts\Structures\Expedition.cs" />
      <Compile Include="Assets\Scripts\Controllers\StateController.cs" />
      <Compile Include="Assets\Scripts\Controllers\AudioController.cs" />
      <Compile Include="Assets\Scripts\PlayerMovement.cs" />
      <Compile Include="Assets\Scripts\Scriptables\StructuresObject.cs" />
      <Compile Include="Assets\Scripts\UI\CanvasExpeditionUI.cs" />
-     <Compile Include="Assets\Scripts\Structures\DogNpc.cs" />
+     <Compile Include="Assets\Scripts\Structures\PetNpc.cs" />
+     <Compile Include="Assets\Scripts\UI\ExpeditionCanvas.cs" />
      <Compile Include="Assets\Scripts\Scriptables\Weapon.cs" />
      <Compile Include="Assets\Scripts\Structures\Structure.cs" />
-     <Compile Include="Assets\Scripts\UI\ExpeditionCanvas.cs" />
-     <Compile Include="Assets\Scripts\Scriptables\ExpeditionDetail.cs" />
-     <Compile Include="Assets\Scripts\PlayerStats.cs" />
+     <Compile Include="Assets\Scripts\Scriptables\PetData.cs" />
+     <Compile Include="Assets\Scripts\Scriptables\MaterialData.cs" />
+     <Compile Include="Assets\Scripts\UI\MessageUI.cs" />
+     <Compile Include="Assets\Scripts\Controllers\UtilWrapper.cs" />
      <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
      <None Include="Assets\Sprites\Soldiers\Soldier Animation Info.txt" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />

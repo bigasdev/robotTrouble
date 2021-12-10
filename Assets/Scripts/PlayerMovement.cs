@@ -45,6 +45,7 @@ public class PlayerMovement : MonoBehaviour
             circle = null;
         }
         currentMovingPos = pos;
+        structure = null;
         RaycastHit2D hit = Physics2D.Raycast(MousePos, Vector2.zero);
         if(hit.collider != null){
             structure = hit.collider.GetComponentInParent<Structure>();

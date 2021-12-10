@@ -14,4 +14,6 @@ public class PlayerStats : MonoBehaviour
         }
     }
     public UnitStats playerStats;
+    public PetData pet;
+    public bool HasPet => pet != null;
 }
